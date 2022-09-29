@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include "fstream"
-#include "D:\kino\proect\imagelib\Image.h"
+#include "..\imagelib\Image.h"
 using namespace std;
 
 int main()
