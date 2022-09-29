@@ -5,7 +5,7 @@ project(image)
 include(function.cmake)
 
 add_subdirectory(main)
-add_subdirectory(imagelib)
+
 
 option(BTEST "build test?" OFF)
 
